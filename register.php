@@ -77,7 +77,7 @@ if(!empty($_POST['usuario']) && !empty($_POST['nombre_usuario']) && !empty($_POS
 		<input type="submit" name="register" id="register" class="button" value="Registrar" />
 	</p>
 	
-	<p class="regtext">Ya tienes una cuenta? <a href="login.php" >Entra Aquí!</a>!</p>
+	<p class="regtext">Ya tienes una cuenta? <a href="index.php" >Entra Aquí!</a>!</p>
 </form>
 	
 	</div>
