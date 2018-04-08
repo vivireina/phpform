@@ -53,7 +53,7 @@ if(!empty($_POST['duracion_llamada'])) {
 		<p class="submit">
 		<input type="submit" name="registro" id="registro" class="button" value="Registrar" />
 	</p>
-	<p class="regtext"><a href="login.php" >Regresar</a></p>
+	<p class="regtext"><a href="index.php" >Regresar</a></p>
 	
 </form>
 	
