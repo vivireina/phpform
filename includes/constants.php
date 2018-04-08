@@ -1,9 +1,9 @@
 <?php
 
 // Database Constants
-define("DB_SERVER", "localhost");
-define("DB_USER", "root");
-define("DB_PASS", "");
-define("DB_NAME", "proyecto");
+define("DB_SERVER", "172.30.13.23");
+define("DB_USER", "user");
+define("DB_PASS", "password");
+define("DB_NAME", "practica");
 
 ?>
